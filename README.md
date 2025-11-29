@@ -1,6 +1,6 @@
 # Introduction
 
-This project focuses on understanding the factors contributing to employee turnover at XYZ Company, which has been experiencing a consistent 15% exit rate. By analyzing HR data, the goal is to uncover patterns that help the organization make informed, data-driven decisions to improve retention.
+XYZ Company has been experiencing a consistent attrition rate of approximately 15% over the past few years, which has begun to impact overall organizational performance and stability. To gain a clearer understanding of the factors contributing to this workforce turnover, the company has engaged an HR analytics consultancy to analyze its employee data. As the HR analyst for this project, your role is to develop a comprehensive dashboard that enables leadership to make informed, data-driven decisions aimed at improving employee retention.
 
 # Project Overview
 
